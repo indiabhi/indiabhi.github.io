@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: indiabhi.github.io
+name: Abhishek Rai
 
 # Short bio or description (displayed in the header)
-description: Web Developer from India
+description: Developer and Student at IIIT Jabalpur
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/8027582?v=3&u=4a856cd0533e851a1d6b8c4104ebb3f68eba3ee1&s=140
@@ -18,15 +18,15 @@ avatar: https://avatars3.githubusercontent.com/u/8027582?v=3&u=4a856cd0533e851a1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:raiabhishek04@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: indiabhi
   instagram:
-  linkedin:
+  linkedin:https://in.linkedin.com/in/713abhi
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: _indiabhi
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
