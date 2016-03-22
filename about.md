@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello everyone reading  I am a student at Indian Institute of Infornation Technology Jabalpur.
+Hello everyone reading, I am a student at Indian Institute of Information Technology Jabalpur.
 I am a movie buff and Tv Show addict! My favorite TV show is True Detective.
 Few movies that I recently watched and really liked are SpotLight and Room!
 
